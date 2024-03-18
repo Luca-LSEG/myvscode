@@ -1,1 +1,1 @@
-print("Hello World! My name is Lee Seong Gw ")
+print("Hello World! My name is Lee Seong Gwon ")
